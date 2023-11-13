@@ -2,9 +2,10 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import tkproject from "@/public/tkproject.webp";
+import campingwarriors from "@/public/campingwarriors.webp";
+import equipesst from "@/public/equipesst.webp";
+import renovationcapital from "@/public/renovationcapital.webp";
 
 export const links = [
   {
@@ -35,7 +36,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Started Learning",
+    title: "Started Learning & Freelancing",
     location: "Cebu, PH",
     description:
       "I started learning WordPress, HTML5 & CSS3 for 6 months. I immediately found a job as a WordPress developer.",
@@ -43,67 +44,59 @@ export const experiencesData = [
     date: "2019-2020",
   },
   {
-    title: "WordPress Developer",
+    title: "WordPress Developer & SEO Specialist",
     location: "New York, USA",
     description:
-      "I worked as a WordPress developer for 2 years. I also upskilled to React and becoming a full stack developer.",
+      "I worked as a WordPress developer and SEO specialist for a year. I also upskilled to React and becoming a full stack developer.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2022",
+    date: "2020 - 2021",
   },
   {
     title: "Full-Stack Developer",
-    location: "Houston, TX",
+    location: "Cebu, PH",
     description:
       "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2022 - Present",
+    date: "2021 - Present",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Senior WordPress Developer",
+    location: "Cebu, PH",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time opportunities.",
+      "I've become a senior WordPress developer working as a freelancer. I've developed and supervised 15-plus WordPress sites, including the SEO. I'm open to full-time opportunities.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - Present",
-  },
-  {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2022 - Present",
+    date: "2021 - Present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "TemporaryKitchen123",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Worked as a by-project web developer/consultant. Tasked to optimize its loading speed and tighten the security.",
+    tags: ["WordPress", "CSS", "PHP", "Javascript", "Technical SEO"],
+    imageUrl: tkproject,
   },
   {
-    title: "rmtDev",
+    title: "Équipe SST",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "Business site for a health and safety management company. Co-developed the front-end and the backend of the site using Webflow CMS.",
+    tags: ["Webflow", "CSS", "HTML", "Webflow CMS"],
+    imageUrl: equipesst,
   },
   {
-    title: "Word Analytics",
+    title: "The Camping Warriors",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "WordPress affiliate site. Worked as a front-end and backend developer. Revamped the old, slow site and transformed it to a new, faster one.",
+    tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
+    imageUrl: campingwarriors,
   },
   {
-    title: "Experiment",
+    title: "Renovation Capital",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: rmtdevImg,
+      "A real-estate website based in Texas, USA. Worked as a full-stack WP developer, implementing investor login and property listing features.",
+    tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
+    imageUrl: renovationcapital,
   },
 ] as const;
 
@@ -120,12 +113,13 @@ export const skillsData = [
   "WordPress",
   "Google Sites",
   "Figma",
-  "WebFlow",
+  "Webflow",
   "Tailwind",
   "Prisma",
   "MongoDB",
   "Python",
   "Java",
-  "Django",
+  "PHP",
   "Framer Motion",
+  "ReactNative",
 ] as const;

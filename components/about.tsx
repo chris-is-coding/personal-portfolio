@@ -17,11 +17,11 @@ export default function About() {
       transition={{ delay: 0.175 }}
       id="about"
     >
-      <SectionHeading>About Christo</SectionHeading>
+      <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
         After freelancing as an{" "}
         <span className="font-bold">SEO specialist</span>, I decided to pursue my
-        passion for programming. I enrolled in a university and coding bootcamps and learned{" "}
+        passion for programming. I enrolled in a university and graduated in numerous coding bootcamps where I learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline font-bold">love</span> the
@@ -30,8 +30,7 @@ export default function About() {
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
-        . I am also proficient on building websites using WordPress and HTML5 & CSS3. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
+        . I am also proficient on building websites using WordPress and HTML5 & CSS3. I am currently looking for a{" "}
         <span className="font-bold">full-time position as a website
         developer.</span>
       </p>
@@ -41,7 +40,7 @@ export default function About() {
         motorcycle to the beach, and relax there. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-bold">Android Application Development</span>. I'm also
+        <span className="font-bold">Android Application Development with React Native</span>. I'm also
         learning how to bake bread & pastries.
       </p>
     </motion.section>
