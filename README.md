@@ -1,4 +1,4 @@
-## What I Implemented in My Code
+## What's Included in thi Repository
 
 - Latest Next.js 13 features
 - Next.js App Router
@@ -16,9 +16,4 @@
 
 ## Important
 
-If you want to build a website, please go to my official website portfolio: https://personal-portfolio-gold-rho.vercel.app/ 
-
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+If you want to see the live website, please go to this official domain: https://www.workswithchris.com/ 

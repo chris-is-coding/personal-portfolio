@@ -72,30 +72,30 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "TemporaryKitchen123",
+    title: "Temporary Kitchens 123",
     description:
-      "Worked as a by-project web developer/consultant. Tasked to optimize its loading speed and tighten the security.",
+      "[www.temporarykitches123.com] Worked as a web consultant. Optimized site's loading speed and tighten its security.",
     tags: ["WordPress", "CSS", "PHP", "Javascript", "Technical SEO"],
     imageUrl: tkproject,
   },
   {
     title: "Équipe SST",
     description:
-      "Business site for a health and safety management company. Co-developed the front-end and the backend of the site using Webflow CMS.",
+      "[www.equipesst.com] Co-developed the front-end and the backend of the site using Webflow CMS.",
     tags: ["Webflow", "CSS", "HTML", "Webflow CMS"],
     imageUrl: equipesst,
   },
   {
     title: "The Camping Warriors",
     description:
-      "WordPress affiliate site. Worked as a front-end and backend developer. Revamped the old, slow site and transformed it to a new, faster one.",
+      "[www.thecampingwarriors.com] Worked as a WordPress developer. Optimized loading speed and tighten its security.",
     tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
     imageUrl: campingwarriors,
   },
   {
     title: "Renovation Capital",
     description:
-      "A real-estate website based in Texas, USA. Worked as a full-stack WP developer, implementing investor login and property listing features.",
+      "[www.renovationcapital.com] Worked as a full-stack WP developer, implementing investor login and property listing features.",
     tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
     imageUrl: renovationcapital,
   },
