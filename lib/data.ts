@@ -1,6 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
+import { FaWordpress } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import tkproject from "@/public/tkproject.webp";
 import campingwarriors from "@/public/campingwarriors.webp";
@@ -64,7 +65,7 @@ export const experiencesData = [
     location: "Cebu, PH",
     description:
       "I've become a senior WordPress developer working as a freelancer. I've developed and supervised 15-plus WordPress sites, including the SEO. I'm open to full-time opportunities.",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(FaWordpress),
     date: "2021 - Present",
   },
 ] as const;
