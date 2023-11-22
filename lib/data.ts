@@ -72,13 +72,6 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Temporary Kitchens 123",
-    description:
-      "[www.temporarykitches123.com] Worked as a web consultant. Optimized site's loading speed and tighten its security.",
-    tags: ["WordPress", "CSS", "PHP", "Javascript", "Technical SEO"],
-    imageUrl: tkproject,
-  },
-  {
     title: "Équipe SST",
     description:
       "[www.equipesst.com] Co-developed the front-end and the backend of the site using Webflow CMS.",
