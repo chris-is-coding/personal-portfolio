@@ -64,10 +64,10 @@ export default function Intro() {
       >
         <span>Hello!{" "}</span>
         <span className="font-bold">I'm Chris.</span> I'm a{" "}
-        <span className="font-bold">junior full-stack developer</span> with{" "}
+        <span className="font-bold">website developer and SEO</span> with over {" "}
         <span className="font-bold">2 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">WordPress, HTML5 & CSS3, React (Next.js)</span>.
+        building <span className="italic">sites and ensuring search engines to like them</span>. My focus is{" "}
+        <span className="underline">WordPress, HTML, CSS, JavaScript, React (Next.js)</span>.
       </motion.h1>
 
       <motion.div
