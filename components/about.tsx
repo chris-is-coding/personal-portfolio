@@ -21,10 +21,10 @@ export default function About() {
       <p className="mb-3">
         After a year of working as an{" "}
         <span className="font-bold">SEO specialist</span>, I decided to pursue my
-        passion for website development. I enrolled in a university and watch numerous web development tutorials where I learned{" "}
+        passion for website development. I enrolled in a university and studied numerous web development tutorials where I learned{" "}
         <span className="font-medium">web development and how I can utilize it as an SEO</span>.{" "}
-        My favorite part of web development is the
-        <span className="italic">problem-solving aspect</span>. I <span className="underline font-bold">loveee</span> the
+        My favorite part of web development is the{" "}
+        <span className="italic">problem-solving aspect</span>. I <span className="underline font-bold">love</span> the
         feeling of finally figuring out a solution to a development issue. With persistence, I've learned and mastered WordPress and also learned HTML, CSS, and JavaScript. Currently, I'm looking for a{" "}
         <span className="font-bold">full-time position as a website
         developer or SEO specialist.</span>
