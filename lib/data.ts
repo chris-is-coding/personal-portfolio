@@ -92,6 +92,13 @@ export const projectsData = [
     tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
     imageUrl: renovationcapital,
   },
+  {
+  title: "Temporary Kitchens 123",
+  description:
+    "[www.temporarykitchens123.com] Worked as a WordPress Developer and SEO specialist, fixing site issues and indexing issues.",
+  tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
+  imageUrl: tkproject,
+  },
 ] as const;
 
 export const skillsData = [
