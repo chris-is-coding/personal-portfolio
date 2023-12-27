@@ -19,29 +19,15 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
-        After freelancing as an{" "}
+        After a year of working as an{" "}
         <span className="font-bold">SEO specialist</span>, I decided to pursue my
-        passion for programming. I enrolled in a university and graduated in numerous coding bootcamps where I learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline font-bold">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also proficient on building websites using WordPress and HTML5 & CSS3. I am currently looking for a{" "}
+        passion for website development. I enrolled in a university and watch numerous web development tutorials where I learned{" "}
+        <span className="font-medium">web development and how I can utilize it as an SEO</span>.{" "}
+        My favorite part of web development is the
+        <span className="italic">problem-solving aspect</span>. I <span className="underline font-bold">loveee</span> the
+        feeling of finally figuring out a solution to a development issue. With persistence, I've learned and mastered WordPress and also learned HTML, CSS, and JavaScript. Currently, I'm looking for a{" "}
         <span className="font-bold">full-time position as a website
-        developer.</span>
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy riding my
-        motorcycle to the beach, and relax there. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-bold">Android Application Development with React Native</span>. I'm also
-        learning how to bake bread & pastries.
+        developer or SEO specialist.</span>
       </p>
     </motion.section>
   );

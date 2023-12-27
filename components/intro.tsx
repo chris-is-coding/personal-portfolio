@@ -65,9 +65,9 @@ export default function Intro() {
         <span>Hello!{" "}</span>
         <span className="font-bold">I'm Chris.</span> I'm a{" "}
         <span className="font-bold">website developer and SEO</span> with over {" "}
-        <span className="font-bold">2 years</span> of experience. I enjoy
-        building <span className="italic">sites and ensuring search engines to like them</span>. My focus is{" "}
-        <span className="underline">WordPress, HTML, CSS, JavaScript, React (Next.js)</span>.
+        <span className="font-bold">2 years of experience</span>. I enjoy
+        building sites and ensuring search engines likes them. My core stack is{" "}
+        <span className="underline">WordPress, HTML, CSS, JavaScript, and React (Next.js)</span>.
       </motion.h1>
 
       <motion.div
@@ -92,7 +92,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="/Chris_Soronio's_Resume.pdf"
           download
         >
           Download CV{" "}
