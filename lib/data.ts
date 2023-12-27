@@ -37,36 +37,36 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Started Learning & Freelancing",
-    location: "Cebu, PH",
+    title: "SEO Specialist & WordPress Developer",
+    location: "Temporary Kitchens 123 — Washington, DC",
     description:
-      "I started learning WordPress, HTML5 & CSS3 for 6 months. I immediately found a job as a WordPress developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019-2020",
+      "Tasked on optimizing existing pages, creating dynamic pages in bulk, creating content using AI, fixing indexing issues from GSC, and fixing site speed performance.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - 2023",
+  },
+  {
+    title: "Website Developer & Technical Support",
+    location: "Tri-tech Digital Solution LTD — Newport, UK",
+    description:
+      "Tasked on developing / fixing websites for clients, setting up payment channels, providing SEO & technical support, and managing link building.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - 2023",
   },
   {
     title: "WordPress Developer & SEO Specialist",
-    location: "New York, USA",
+    location: "Site Ninjas Digital Design & Marketing — Sydney, UK",
     description:
-      "I worked as a WordPress developer and SEO specialist for a year. I also upskilled to React and becoming a full stack developer.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2021",
-  },
-  {
-    title: "Junior Full-Stack Developer",
-    location: "Cebu, PH",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, and MongoDB. I'm open to full-time opportunities.",
+      "Tasked on developing and designing websites for clients and building a foundational SEO. Also tasked to manage Google Business Profiles and social media channels.",
     icon: React.createElement(FaReact),
-    date: "2021 - Present",
+    date: "2022 - 2022",
   },
   {
-    title: "Senior WordPress Developer",
-    location: "Cebu, PH",
+    title: "WordPress Developer & SEO Specialist",
+    location: "DM Pro — Zagreb, HR",
     description:
-      "I've become a senior WordPress developer working as a freelancer. I've developed and supervised 15-plus WordPress sites, including the SEO. I'm open to full-time opportunities.",
+      "Tasked on designing and publishing site pages, crafting SEO optimized content, link building, and fixing technical issues.",
     icon: React.createElement(FaWordpress),
-    date: "2021 - Present",
+    date: "2020 - 2021",
   },
 ] as const;
 
