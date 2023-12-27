@@ -57,7 +57,7 @@ export const experiencesData = [
     location: "Site Ninjas Digital Design & Marketing — Sydney, UK",
     description:
       "Tasked on developing and designing websites for clients and building a foundational SEO. Also tasked to manage Google Business Profiles and social media channels.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "2022 - 2022",
   },
   {
@@ -65,7 +65,7 @@ export const experiencesData = [
     location: "DM Pro — Zagreb, HR",
     description:
       "Tasked on designing and publishing site pages, crafting SEO optimized content, link building, and fixing technical issues.",
-    icon: React.createElement(FaWordpress),
+    icon: React.createElement(CgWorkAlt),
     date: "2020 - 2021",
   },
 ] as const;
@@ -74,30 +74,34 @@ export const projectsData = [
   {
     title: "Équipe SST",
     description:
-      "[www.equipesst.com] Co-developed the front-end and the backend of the site using Webflow CMS.",
+      "Co-developed the front-end and the backend of the site using Webflow CMS.",
     tags: ["Webflow", "CSS", "HTML", "Webflow CMS"],
     imageUrl: equipesst,
+    websiteUrl: "https://www.equipesst.com",
   },
   {
     title: "The Camping Warriors",
     description:
-      "[www.thecampingwarriors.com] Worked as a WordPress developer. Optimized loading speed and tighten its security.",
+      "Worked as a WordPress developer. Optimized loading speed and tighten its security.",
     tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
     imageUrl: campingwarriors,
+    websiteUrl: "https://www.thecampingwarriors.com",
   },
   {
     title: "Renovation Capital",
     description:
-      "[www.renovationcapital.com] Worked as a full-stack WP developer, implementing investor login and property listing features.",
+      "Worked as a full-stack WP developer, implementing investor login and property listing features.",
     tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
     imageUrl: renovationcapital,
+    websiteUrl: "https://www.renovationcapital.com",
   },
   {
   title: "Temporary Kitchens 123",
   description:
-    "[www.temporarykitchens123.com] Worked as a WordPress Developer and SEO specialist, fixing site issues and indexing issues.",
+    "Worked as a WordPress Developer and SEO specialist, fixing site issues and indexing issues.",
   tags: ["WordPress", "HTML", "CSS", "Javascript", "PHP"],
   imageUrl: tkproject,
+  websiteUrl: "https://www.temporarykitchens123.com",
   },
 ] as const;
 

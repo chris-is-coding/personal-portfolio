@@ -1,4 +1,4 @@
-## What's Included in thi Repository
+## What's Included in this Repository
 
 - Latest Next.js 13 features
 - Next.js App Router
