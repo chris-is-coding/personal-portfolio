@@ -7,6 +7,7 @@ import tkproject from "@/public/tkproject.webp";
 import campingwarriors from "@/public/campingwarriors.webp";
 import equipesst from "@/public/equipesst.webp";
 import renovationcapital from "@/public/renovationcapital.webp";
+import hellocebuph from "@/public/hellocebuph.webp";
 
 export const links = [
   {
@@ -71,6 +72,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Hello Cebu PH",
+    description:
+      "Developed, designed, and maintained this beautiful blogging site for my sister.",
+    tags: ["Webflow", "CSS", "HTML", "Webflow CMS"],
+    imageUrl: hellocebuph,
+    websiteUrl: "https://hellocebuph.com",
+  },
   {
     title: "Équipe SST",
     description:
